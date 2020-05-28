@@ -50,7 +50,7 @@ public class RedNeuronal1 {
          String utilizar1=obj.nextLine();
 
 
-
+\\fin del proyecto
 
     }
 
